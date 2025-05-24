@@ -1,0 +1,1 @@
+# To-display-each-character-from-a-string-using-sequence-index
